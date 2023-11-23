@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-bvd!=&4jtt4sucnz0n7wk*($y268(9d8@2w(2&vm9+^qtm7op!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','localhost','tropea.kr']
 
 
 # Application definition
